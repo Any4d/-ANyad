@@ -1,2 +1,2 @@
-# -ANyad
+# ANyad
 SemMi
